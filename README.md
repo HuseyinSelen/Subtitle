@@ -37,7 +37,7 @@ This project adds Japanese subtitles to the film *Wicked* by using Python. The p
 ### `script.py`
 - Uses **Deep Translator** to translate the `.srt` file from English to Japanese.
 
-### `ceviri.py`
+### `translate.py`
 - Converts the translated subtitle file to **UTF-8 BOM format** to ensure proper display in media players.
 
 ### `second.py`
