@@ -1,5 +1,8 @@
 # 🎭 Wicked Japanese Subtitles Project
 
+### 📷 CMS page
+![wicked]
+
 ## 📌 Project Overview
 This project adds Japanese subtitles to the film *Wicked* by using Python. The process involves:
 - Translating the English subtitles into Japanese using Python.
