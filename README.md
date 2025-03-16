@@ -1,6 +1,6 @@
 # 🎭 Wicked Japanese Subtitles Project
 
-### 📷 CMS page
+### 📷 
 ![wicked](wicked.png)
 
 ## 📌 Project Overview
