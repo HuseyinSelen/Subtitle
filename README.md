@@ -56,4 +56,4 @@ This project adds Japanese subtitles to the film *Wicked* by using Python. The p
 Feel free to fork this repository and submit pull requests if you have improvements or suggestions!
 
 ## 📜 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
